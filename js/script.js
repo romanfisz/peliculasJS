@@ -1,4 +1,4 @@
-console.log ("Proyecto Final Js Coderhouse- Nicolas Pablo Ivan Pedicino")
+console.log ("Proyecto Final Js Coderhouse- Román Alejandro Fisz")
 
 //---------------------------------------------------
 console.table(peliculas)
